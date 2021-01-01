@@ -1,0 +1,23 @@
+body{
+background: #555;
+line-height: 30px;
+text-decoration-style: solid;
+	}
+
+.given_form {
+  	 margin: auto;
+  	 background: ghostwhite;
+  	 justify-content: center;	
+  	 display: flex;
+  	 flex-wrap: wrap;
+	}
+
+.button{
+background-color: DodgerBlue;
+text-align:center;
+}
+
+.button5{
+background-color: Tomato;
+padding: 20px 150px;
+}
